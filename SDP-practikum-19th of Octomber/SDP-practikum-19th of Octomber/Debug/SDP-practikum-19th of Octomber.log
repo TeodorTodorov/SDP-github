@@ -1,0 +1,10 @@
+﻿  ConsoleIOUserInteraction.cpp
+c:\users\teodor\source\repos\sdp-practikum-19th of octomber\sdp-practikum-19th of octomber\fileeditor.h(58): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  Source.cpp
+c:\users\teodor\source\repos\sdp-practikum-19th of octomber\sdp-practikum-19th of octomber\fileeditor.h(58): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  FileEditor.cpp
+  SDP-practikum-19th of Octomber.vcxproj -> C:\Users\Teodor\source\repos\SDP-practikum-19th of Octomber\Debug\SDP-practikum-19th of Octomber.exe
